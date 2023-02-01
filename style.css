@@ -1,0 +1,12 @@
+svg{
+    object-fit: cover;
+    height: 10px;
+}
+
+
+@media screen and (max-width: 576px) {
+    .card {
+        width: 100% !important;
+        margin-bottom: 1rem;
+    }
+}
